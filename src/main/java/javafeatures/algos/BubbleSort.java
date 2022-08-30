@@ -24,6 +24,7 @@ public class BubbleSort {
                 }
             }
         }
+        System.out.println();
         Arrays.stream(array).forEach(d -> System.out.print(d + ", "));
     }
 
